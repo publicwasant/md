@@ -313,4 +313,4 @@ class SimpleBot(object):
                 time.sleep(0.4)
 
 simpleBot = SimpleBot()
-simpleBot.start()
+# simpleBot.start()
